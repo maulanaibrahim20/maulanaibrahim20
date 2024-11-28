@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web Programming
 - 🌱 Keep learn on everything 
 - 📫 How to reach me ...
-     - telegram  : https://t.me/meboim
-     - email     : maulibrahim4321@gmail.com
+     - Telegram  : https://t.me/meboim
+     - Email     : maulibrahim4321@gmail.com
      - LinkedIn  : https://www.linkedin.com/in/maulana-ibrahim-6279182b9/
 
 <p align="left">
